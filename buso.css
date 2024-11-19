@@ -30,7 +30,8 @@ img {
 	margin: 5px 15px;
 	width: 15em; 
 	background-color: white;
-}
+	min-width: 300px;
+}	
 
 .balra {
 	float: left;
