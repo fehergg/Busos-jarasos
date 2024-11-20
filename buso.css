@@ -74,3 +74,7 @@ a {
 .jobbra {
 	float:right
 }
+
+ul {
+	list-style-image: url(jel.png)
+}
